@@ -1,0 +1,550 @@
+2026-01-27 23:33:50,255 - INFO - Start polling
+2026-01-27 23:33:50,379 - INFO - Run polling for bot @Maximusbyrd_bot id=8583813777 - 'MaximusBot'
+2026-01-27 23:37:13,685 - INFO - MaximusBot started
+2026-01-27 23:37:13,685 - INFO - Start polling
+2026-01-27 23:37:13,800 - INFO - Run polling for bot @Maximusbyrd_bot id=8583813777 - 'MaximusBot'
+2026-01-27 23:37:48,416 - INFO - Запрос message от user_id=6194184713
+2026-01-27 23:37:48,417 - INFO - /start от user_id=6194184713
+2026-01-27 23:37:48,628 - INFO - Update id=986836314 is handled. Duration 219 ms by bot id=8583813777
+2026-01-27 23:37:54,187 - INFO - Запрос callback от user_id=6194184713
+2026-01-27 23:37:54,277 - INFO - Update id=986836315 is handled. Duration 78 ms by bot id=8583813777
+2026-01-27 23:37:57,774 - INFO - Update id=986836316 is not handled. Duration 0 ms by bot id=8583813777
+2026-01-27 23:38:28,725 - INFO - MaximusBot started
+2026-01-27 23:38:28,725 - INFO - Start polling
+2026-01-27 23:38:28,833 - INFO - Run polling for bot @Maximusbyrd_bot id=8583813777 - 'MaximusBot'
+2026-01-27 23:38:28,868 - INFO - Запрос message от user_id=6194184713
+2026-01-27 23:38:28,871 - INFO - /start от user_id=6194184713
+2026-01-27 23:38:28,877 - INFO - Запрос message от user_id=6194184713
+2026-01-27 23:38:28,877 - INFO - /start от user_id=6194184713
+2026-01-27 23:38:28,881 - INFO - Запрос message от user_id=6194184713
+2026-01-27 23:38:28,881 - INFO - /start от user_id=6194184713
+2026-01-27 23:38:29,077 - INFO - Update id=986836317 is handled. Duration 218 ms by bot id=8583813777
+2026-01-27 23:38:29,107 - INFO - Update id=986836318 is handled. Duration 234 ms by bot id=8583813777
+2026-01-27 23:38:29,130 - INFO - Update id=986836319 is handled. Duration 250 ms by bot id=8583813777
+2026-01-27 23:38:33,473 - INFO - Запрос callback от user_id=6194184713
+2026-01-27 23:38:33,529 - INFO - Update id=986836320 is handled. Duration 61 ms by bot id=8583813777
+2026-01-27 23:38:36,480 - INFO - Запрос callback от user_id=6194184713
+2026-01-27 23:38:36,560 - INFO - Update id=986836321 is handled. Duration 93 ms by bot id=8583813777
+2026-01-27 23:38:42,692 - INFO - Update id=986836322 is not handled. Duration 0 ms by bot id=8583813777
+2026-01-27 23:38:46,178 - INFO - Запрос callback от user_id=6194184713
+2026-01-27 23:38:46,285 - INFO - Update id=986836323 is handled. Duration 108 ms by bot id=8583813777
+2026-01-27 23:38:47,073 - INFO - Update id=986836324 is not handled. Duration 0 ms by bot id=8583813777
+2026-01-27 23:39:33,029 - INFO - Запрос message от user_id=6194184713
+2026-01-27 23:39:33,030 - INFO - /start от user_id=6194184713
+2026-01-27 23:39:33,173 - INFO - Update id=986836325 is handled. Duration 141 ms by bot id=8583813777
+2026-01-27 23:45:59,732 - INFO - MaximusBot started
+2026-01-27 23:45:59,732 - INFO - Start polling
+2026-01-27 23:45:59,859 - INFO - Run polling for bot @Maximusbyrd_bot id=8583813777 - 'MaximusBot'
+2026-01-27 23:46:04,183 - INFO - Запрос message от user_id=6194184713
+2026-01-27 23:46:04,183 - INFO - /start от user_id=6194184713
+2026-01-27 23:46:04,404 - INFO - Update id=986836326 is handled. Duration 233 ms by bot id=8583813777
+2026-01-27 23:46:06,188 - INFO - Запрос callback от user_id=6194184713
+2026-01-27 23:46:06,287 - INFO - Update id=986836327 is handled. Duration 93 ms by bot id=8583813777
+2026-01-27 23:46:07,220 - INFO - Запрос callback от user_id=6194184713
+2026-01-27 23:46:07,319 - INFO - Update id=986836328 is handled. Duration 93 ms by bot id=8583813777
+2026-01-27 23:46:08,135 - INFO - Запрос callback от user_id=6194184713
+2026-01-27 23:46:08,237 - INFO - Update id=986836329 is handled. Duration 109 ms by bot id=8583813777
+2026-01-27 23:46:08,948 - INFO - Запрос callback от user_id=6194184713
+2026-01-27 23:46:09,043 - INFO - Update id=986836330 is handled. Duration 110 ms by bot id=8583813777
+2026-01-27 23:46:09,983 - INFO - Запрос callback от user_id=6194184713
+2026-01-27 23:46:10,080 - INFO - Update id=986836331 is handled. Duration 93 ms by bot id=8583813777
+2026-01-27 23:46:11,937 - INFO - Запрос callback от user_id=6194184713
+2026-01-27 23:46:12,028 - INFO - Update id=986836332 is handled. Duration 93 ms by bot id=8583813777
+2026-01-27 23:46:12,703 - INFO - Запрос callback от user_id=6194184713
+2026-01-27 23:46:12,808 - INFO - Update id=986836333 is handled. Duration 94 ms by bot id=8583813777
+2026-01-27 23:46:14,328 - INFO - Запрос callback от user_id=6194184713
+2026-01-27 23:46:14,434 - INFO - Update id=986836334 is handled. Duration 94 ms by bot id=8583813777
+2026-01-27 23:46:15,300 - INFO - Запрос callback от user_id=6194184713
+2026-01-27 23:46:15,416 - INFO - Update id=986836335 is handled. Duration 108 ms by bot id=8583813777
+2026-01-27 23:46:16,848 - INFO - Запрос callback от user_id=6194184713
+2026-01-27 23:46:16,956 - INFO - Update id=986836336 is handled. Duration 109 ms by bot id=8583813777
+2026-01-27 23:46:18,508 - INFO - Запрос callback от user_id=6194184713
+2026-01-27 23:46:18,601 - INFO - Update id=986836337 is handled. Duration 93 ms by bot id=8583813777
+2026-01-27 23:46:19,422 - INFO - Запрос callback от user_id=6194184713
+2026-01-27 23:46:19,661 - INFO - Update id=986836338 is handled. Duration 233 ms by bot id=8583813777
+2026-01-27 23:46:20,243 - INFO - Запрос callback от user_id=6194184713
+2026-01-27 23:46:20,458 - INFO - Update id=986836339 is handled. Duration 218 ms by bot id=8583813777
+2026-01-27 23:46:32,168 - INFO - Запрос message от user_id=6194184713
+2026-01-27 23:46:32,169 - INFO - Получено видео от user_id=6194184713
+2026-01-27 23:46:32,262 - INFO - Update id=986836340 is handled. Duration 94 ms by bot id=8583813777
+2026-01-28 00:02:58,263 - INFO - MaximusBot started
+2026-01-28 00:02:58,263 - INFO - Start polling
+2026-01-28 00:02:58,404 - INFO - Run polling for bot @Maximusbyrd_bot id=8583813777 - 'MaximusBot'
+2026-01-28 00:03:15,977 - INFO - Запрос message от user_id=6194184713
+2026-01-28 00:03:15,977 - INFO - /start от user_id=6194184713
+2026-01-28 00:03:16,206 - INFO - Update id=986836341 is handled. Duration 234 ms by bot id=8583813777
+2026-01-28 00:03:17,170 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:03:17,339 - INFO - Update id=986836342 is handled. Duration 156 ms by bot id=8583813777
+2026-01-28 00:03:18,043 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:03:18,286 - INFO - Update id=986836343 is handled. Duration 250 ms by bot id=8583813777
+2026-01-28 00:03:24,323 - INFO - Запрос message от user_id=6194184713
+2026-01-28 00:03:24,323 - INFO - Получено видео от user_id=6194184713
+2026-01-28 00:03:24,385 - INFO - Update id=986836344 is handled. Duration 63 ms by bot id=8583813777
+2026-01-28 00:05:27,880 - INFO - MaximusBot started
+2026-01-28 00:05:27,880 - INFO - Start polling
+2026-01-28 00:05:28,001 - INFO - Run polling for bot @Maximusbyrd_bot id=8583813777 - 'MaximusBot'
+2026-01-28 00:05:28,036 - INFO - Запрос message от user_id=6194184713
+2026-01-28 00:05:28,036 - INFO - /start от user_id=6194184713
+2026-01-28 00:05:28,297 - INFO - Update id=986836345 is handled. Duration 266 ms by bot id=8583813777
+2026-01-28 00:05:29,625 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:05:29,841 - INFO - Update id=986836346 is handled. Duration 218 ms by bot id=8583813777
+2026-01-28 00:05:30,501 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:05:30,603 - INFO - Update id=986836347 is handled. Duration 93 ms by bot id=8583813777
+2026-01-28 00:05:36,953 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:05:37,130 - INFO - Update id=986836348 is handled. Duration 171 ms by bot id=8583813777
+2026-01-28 00:05:38,181 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:05:38,394 - INFO - Update id=986836349 is handled. Duration 218 ms by bot id=8583813777
+2026-01-28 00:05:38,886 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:05:38,991 - INFO - Update id=986836350 is handled. Duration 109 ms by bot id=8583813777
+2026-01-28 00:05:44,703 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:05:44,798 - INFO - Update id=986836351 is handled. Duration 93 ms by bot id=8583813777
+2026-01-28 00:05:49,383 - INFO - Update id=986836352 is not handled. Duration 0 ms by bot id=8583813777
+2026-01-28 00:05:53,017 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:05:53,151 - INFO - Update id=986836353 is handled. Duration 125 ms by bot id=8583813777
+2026-01-28 00:05:54,254 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:05:54,366 - INFO - Update id=986836354 is handled. Duration 109 ms by bot id=8583813777
+2026-01-28 00:05:55,621 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:05:55,757 - INFO - Update id=986836355 is handled. Duration 140 ms by bot id=8583813777
+2026-01-28 00:05:56,549 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:05:56,662 - INFO - Update id=986836356 is handled. Duration 108 ms by bot id=8583813777
+2026-01-28 00:06:03,506 - INFO - Update id=986836357 is not handled. Duration 0 ms by bot id=8583813777
+2026-01-28 00:06:08,369 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:06:08,460 - INFO - Update id=986836358 is handled. Duration 93 ms by bot id=8583813777
+2026-01-28 00:06:12,831 - INFO - Запрос message от user_id=6194184713
+2026-01-28 00:06:12,832 - INFO - Получено видео от user_id=6194184713
+2026-01-28 00:06:13,000 - INFO - Update id=986836359 is handled. Duration 171 ms by bot id=8583813777
+2026-01-28 00:11:54,867 - INFO - MaximusBot started
+2026-01-28 00:11:54,867 - INFO - Start polling
+2026-01-28 00:11:54,993 - INFO - Run polling for bot @Maximusbyrd_bot id=8583813777 - 'MaximusBot'
+2026-01-28 00:12:00,113 - INFO - Запрос message от user_id=6194184713
+2026-01-28 00:12:00,113 - INFO - /start от user_id=6194184713
+2026-01-28 00:12:00,304 - INFO - Update id=986836360 is handled. Duration 187 ms by bot id=8583813777
+2026-01-28 00:12:01,215 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:12:01,364 - INFO - Update id=986836361 is handled. Duration 155 ms by bot id=8583813777
+2026-01-28 00:12:02,266 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:12:02,371 - INFO - Update id=986836362 is handled. Duration 92 ms by bot id=8583813777
+2026-01-28 00:12:08,221 - INFO - Запрос message от user_id=6194184713
+2026-01-28 00:12:08,222 - INFO - Получено видео от user_id=6194184713
+2026-01-28 00:12:08,278 - INFO - Начало скачивания видео
+2026-01-28 00:12:08,789 - INFO - Видео скачано успешно
+2026-01-28 00:12:08,789 - INFO - Открытие клипа VideoFileClip
+2026-01-28 00:12:09,061 - INFO - Клип открыт: duration=10.74s, size=[722, 646]
+2026-01-28 00:12:09,062 - ERROR - Полная ошибка обработки видео user_id=6194184713
+Traceback (most recent call last):
+  File "C:\Projects\MaximusBot\bot\handlers.py", line 172, in process_video
+    clip = clip.crop(x_center=w/2, y_center=h/2, width=side, height=side)
+AttributeError: 'VideoFileClip' object has no attribute 'crop'
+2026-01-28 00:12:09,254 - INFO - Клип закрыт
+2026-01-28 00:12:09,255 - INFO - Файл input_6194184713.mp4 удалён
+2026-01-28 00:12:09,255 - INFO - Update id=986836363 is handled. Duration 1031 ms by bot id=8583813777
+2026-01-28 00:26:25,467 - INFO - MaximusBot started
+2026-01-28 00:26:25,467 - INFO - Start polling
+2026-01-28 00:26:25,594 - INFO - Run polling for bot @Maximusbyrd_bot id=8583813777 - 'MaximusBot'
+2026-01-28 00:26:48,027 - INFO - Запрос message от user_id=6194184713
+2026-01-28 00:26:48,028 - INFO - /start от user_id=6194184713
+2026-01-28 00:26:48,241 - INFO - Update id=986836364 is handled. Duration 218 ms by bot id=8583813777
+2026-01-28 00:26:49,239 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:26:49,339 - INFO - Update id=986836365 is handled. Duration 93 ms by bot id=8583813777
+2026-01-28 00:26:49,874 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:26:49,976 - INFO - Update id=986836366 is handled. Duration 94 ms by bot id=8583813777
+2026-01-28 00:26:54,517 - INFO - Запрос message от user_id=6194184713
+2026-01-28 00:26:54,518 - INFO - Получено видео от user_id=6194184713
+2026-01-28 00:26:54,591 - INFO - Начало скачивания видео
+2026-01-28 00:26:55,092 - INFO - Видео скачано успешно
+2026-01-28 00:26:55,093 - INFO - Открытие клипа VideoFileClip
+2026-01-28 00:26:55,364 - INFO - Клип открыт: duration=10.74s, size=[722, 646]
+2026-01-28 00:26:55,364 - ERROR - Полная ошибка обработки видео user_id=6194184713
+Traceback (most recent call last):
+  File "C:\Projects\MaximusBot\bot\handlers.py", line 172, in process_video
+    clip = clip.fx(crop, x_center=w/2, y_center=h/2, width=side, height=side)
+AttributeError: 'VideoFileClip' object has no attribute 'fx'
+2026-01-28 00:26:55,509 - INFO - Клип закрыт
+2026-01-28 00:26:55,510 - INFO - Файл input_6194184713.mp4 удалён
+2026-01-28 00:26:55,510 - INFO - Update id=986836367 is handled. Duration 983 ms by bot id=8583813777
+2026-01-28 00:29:15,885 - INFO - MaximusBot started
+2026-01-28 00:29:15,885 - INFO - Start polling
+2026-01-28 00:29:16,005 - INFO - Run polling for bot @Maximusbyrd_bot id=8583813777 - 'MaximusBot'
+2026-01-28 00:29:21,475 - INFO - Запрос message от user_id=6194184713
+2026-01-28 00:29:21,689 - INFO - Update id=986836368 is handled. Duration 218 ms by bot id=8583813777
+2026-01-28 00:29:22,704 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:29:22,798 - INFO - Update id=986836369 is handled. Duration 94 ms by bot id=8583813777
+2026-01-28 00:29:26,462 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:29:26,559 - INFO - Update id=986836370 is handled. Duration 94 ms by bot id=8583813777
+2026-01-28 00:29:30,479 - INFO - Запрос message от user_id=6194184713
+2026-01-28 00:29:30,480 - INFO - Получено видео от user_id=6194184713
+2026-01-28 00:29:34,210 - INFO - Update id=986836371 is handled. Duration 3733 ms by bot id=8583813777
+2026-01-28 00:29:52,585 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:29:52,699 - INFO - Update id=986836372 is handled. Duration 109 ms by bot id=8583813777
+2026-01-28 00:29:54,039 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:29:54,136 - INFO - Update id=986836373 is handled. Duration 93 ms by bot id=8583813777
+2026-01-28 00:29:55,021 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:29:55,238 - INFO - Update id=986836374 is handled. Duration 218 ms by bot id=8583813777
+2026-01-28 00:29:55,728 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:29:55,995 - INFO - Update id=986836375 is handled. Duration 265 ms by bot id=8583813777
+2026-01-28 00:29:56,602 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:29:56,791 - INFO - Update id=986836376 is handled. Duration 187 ms by bot id=8583813777
+2026-01-28 00:30:00,454 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:30:00,556 - INFO - Update id=986836377 is handled. Duration 94 ms by bot id=8583813777
+2026-01-28 00:30:01,888 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:30:01,985 - INFO - Update id=986836378 is handled. Duration 109 ms by bot id=8583813777
+2026-01-28 00:30:47,981 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:30:48,146 - INFO - Update id=986836379 is handled. Duration 156 ms by bot id=8583813777
+2026-01-28 00:30:49,384 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:30:49,474 - INFO - Update id=986836380 is handled. Duration 94 ms by bot id=8583813777
+2026-01-28 00:30:49,921 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:30:50,016 - INFO - Update id=986836381 is handled. Duration 94 ms by bot id=8583813777
+2026-01-28 00:30:51,175 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:30:51,296 - INFO - Update id=986836382 is handled. Duration 125 ms by bot id=8583813777
+2026-01-28 00:30:51,771 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:30:51,892 - INFO - Update id=986836383 is handled. Duration 125 ms by bot id=8583813777
+2026-01-28 00:30:53,325 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:30:53,421 - INFO - Update id=986836384 is handled. Duration 109 ms by bot id=8583813777
+2026-01-28 00:32:46,321 - INFO - MaximusBot started
+2026-01-28 00:32:46,321 - INFO - Start polling
+2026-01-28 00:32:46,427 - INFO - Run polling for bot @Maximusbyrd_bot id=8583813777 - 'MaximusBot'
+2026-01-28 00:32:46,468 - INFO - Запрос message от user_id=6194184713
+2026-01-28 00:32:46,680 - INFO - Update id=986836385 is handled. Duration 202 ms by bot id=8583813777
+2026-01-28 00:32:55,806 - INFO - Запрос message от user_id=6194184713
+2026-01-28 00:32:55,936 - INFO - Update id=986836386 is handled. Duration 140 ms by bot id=8583813777
+2026-01-28 00:32:57,627 - INFO - Запрос message от user_id=6194184713
+2026-01-28 00:32:57,769 - INFO - Update id=986836387 is handled. Duration 141 ms by bot id=8583813777
+2026-01-28 00:33:05,418 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:33:05,530 - INFO - Update id=986836388 is handled. Duration 125 ms by bot id=8583813777
+2026-01-28 00:33:06,656 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:33:06,754 - INFO - Update id=986836389 is handled. Duration 93 ms by bot id=8583813777
+2026-01-28 00:33:07,674 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:33:07,771 - INFO - Update id=986836390 is handled. Duration 109 ms by bot id=8583813777
+2026-01-28 00:33:10,307 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:33:10,417 - INFO - Update id=986836391 is handled. Duration 109 ms by bot id=8583813777
+2026-01-28 00:33:23,598 - INFO - Запрос message от user_id=6194184713
+2026-01-28 00:33:23,669 - INFO - Update id=986836392 is handled. Duration 77 ms by bot id=8583813777
+2026-01-28 00:33:28,893 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:33:29,074 - INFO - Update id=986836393 is handled. Duration 171 ms by bot id=8583813777
+2026-01-28 00:33:30,775 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:33:30,948 - INFO - Update id=986836394 is handled. Duration 171 ms by bot id=8583813777
+2026-01-28 00:33:32,190 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:33:32,295 - INFO - Update id=986836395 is handled. Duration 109 ms by bot id=8583813777
+2026-01-28 00:33:34,440 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:33:34,576 - INFO - Update id=986836396 is handled. Duration 140 ms by bot id=8583813777
+2026-01-28 00:33:37,937 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:33:38,023 - INFO - Update id=986836397 is handled. Duration 78 ms by bot id=8583813777
+2026-01-28 00:33:39,173 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:33:39,280 - INFO - Update id=986836398 is handled. Duration 109 ms by bot id=8583813777
+2026-01-28 00:33:39,983 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:33:40,068 - INFO - Update id=986836399 is handled. Duration 77 ms by bot id=8583813777
+2026-01-28 00:34:16,659 - INFO - Запрос message от user_id=6194184713
+2026-01-28 00:34:16,659 - INFO - Получено видео от user_id=6194184713
+2026-01-28 00:34:19,985 - INFO - Update id=986836400 is handled. Duration 3327 ms by bot id=8583813777
+2026-01-28 00:34:26,781 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 00:34:26,876 - INFO - Update id=986836401 is handled. Duration 93 ms by bot id=8583813777
+2026-01-28 18:41:27,653 - INFO - MaximusBot started
+2026-01-28 18:41:27,654 - INFO - Start polling
+2026-01-28 18:41:27,791 - INFO - Run polling for bot @Maximusbyrd_bot id=8583813777 - 'MaximusBot'
+2026-01-28 18:41:46,981 - INFO - Запрос message от user_id=6194184713
+2026-01-28 18:41:47,212 - INFO - Update id=986836402 is handled. Duration 234 ms by bot id=8583813777
+2026-01-28 18:41:49,713 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 18:41:49,821 - INFO - Update id=986836403 is handled. Duration 108 ms by bot id=8583813777
+2026-01-28 18:41:50,504 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 18:41:50,601 - INFO - Update id=986836404 is handled. Duration 94 ms by bot id=8583813777
+2026-01-28 18:41:51,055 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 18:41:51,158 - INFO - Update id=986836405 is handled. Duration 109 ms by bot id=8583813777
+2026-01-28 18:41:51,620 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 18:41:51,713 - INFO - Update id=986836406 is handled. Duration 94 ms by bot id=8583813777
+2026-01-28 18:41:54,408 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 18:41:54,509 - INFO - Update id=986836407 is handled. Duration 94 ms by bot id=8583813777
+2026-01-28 18:42:01,625 - INFO - Запрос message от user_id=6194184713
+2026-01-28 18:42:01,709 - INFO - Update id=986836408 is handled. Duration 78 ms by bot id=8583813777
+2026-01-28 18:42:05,370 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 18:42:05,484 - INFO - Update id=986836409 is handled. Duration 125 ms by bot id=8583813777
+2026-01-28 18:42:06,278 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 18:42:06,377 - INFO - Update id=986836410 is handled. Duration 94 ms by bot id=8583813777
+2026-01-28 18:42:07,241 - INFO - Запрос callback от user_id=6194184713
+2026-01-28 18:42:07,339 - INFO - Update id=986836411 is handled. Duration 94 ms by bot id=8583813777
+2026-01-28 18:42:15,957 - INFO - Запрос message от user_id=6194184713
+2026-01-28 18:42:15,957 - INFO - Получено видео от user_id=6194184713
+2026-01-28 18:42:20,199 - INFO - Update id=986836412 is handled. Duration 4233 ms by bot id=8583813777
+2026-01-29 23:28:21,427 - INFO - MaximusBot started
+2026-01-29 23:28:21,427 - INFO - Start polling
+2026-01-29 23:28:21,537 - INFO - Run polling for bot @Maximusbyrd_bot id=8583813777 - 'MaximusBot'
+2026-01-29 23:28:21,576 - INFO - Запрос message от user_id=6194184713
+2026-01-29 23:28:21,583 - INFO - Запрос message от user_id=6194184713
+2026-01-29 23:28:21,787 - INFO - Update id=986836413 is handled. Duration 202 ms by bot id=8583813777
+2026-01-29 23:28:21,813 - INFO - Update id=986836414 is handled. Duration 233 ms by bot id=8583813777
+2026-01-29 23:28:28,671 - INFO - Запрос message от user_id=6194184713
+2026-01-29 23:28:28,844 - INFO - Update id=986836415 is handled. Duration 172 ms by bot id=8583813777
+2026-01-29 23:28:37,117 - INFO - Update id=986836416 is not handled. Duration 0 ms by bot id=8583813777
+2026-01-29 23:28:40,326 - INFO - Update id=986836417 is not handled. Duration 0 ms by bot id=8583813777
+2026-01-29 23:28:41,194 - INFO - Update id=986836418 is not handled. Duration 0 ms by bot id=8583813777
+2026-01-29 23:28:41,602 - INFO - Update id=986836419 is not handled. Duration 0 ms by bot id=8583813777
+2026-01-29 23:42:49,184 - INFO - MaximusBot started
+2026-01-29 23:42:49,185 - INFO - Start polling
+2026-01-29 23:42:49,304 - INFO - Run polling for bot @Maximusbyrd_bot id=8583813777 - 'MaximusBot'
+2026-01-29 23:43:00,126 - INFO - Запрос message от user_id=6194184713
+2026-01-29 23:43:00,328 - INFO - Update id=986836420 is handled. Duration 203 ms by bot id=8583813777
+2026-01-29 23:43:01,388 - INFO - Запрос callback от user_id=6194184713
+2026-01-29 23:43:01,486 - INFO - Update id=986836421 is handled. Duration 93 ms by bot id=8583813777
+2026-01-29 23:43:03,201 - INFO - Запрос callback от user_id=6194184713
+2026-01-29 23:43:03,392 - INFO - Update id=986836422 is handled. Duration 187 ms by bot id=8583813777
+2026-01-29 23:44:05,945 - INFO - Запрос message от user_id=6194184713
+2026-01-29 23:44:06,013 - INFO - Update id=986836423 is handled. Duration 79 ms by bot id=8583813777
+2026-01-29 23:44:14,298 - INFO - Запрос message от user_id=6194184713
+2026-01-29 23:44:14,298 - INFO - Получено изображение от user_id=6194184713
+2026-01-29 23:46:08,427 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-01-29 23:46:08,428 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8583813777)
+2026-01-29 23:46:09,187 - INFO - Update id=986836424 is handled. Duration 114889 ms by bot id=8583813777
+2026-01-29 23:46:19,472 - INFO - Connection established (tryings = 1, bot id = 8583813777)
+2026-01-29 23:49:43,545 - INFO - Запрос callback от user_id=6194184713
+2026-01-29 23:49:43,780 - INFO - Update id=986836425 is handled. Duration 234 ms by bot id=8583813777
+2026-01-29 23:49:44,642 - INFO - Запрос callback от user_id=6194184713
+2026-01-29 23:49:44,749 - INFO - Update id=986836426 is handled. Duration 109 ms by bot id=8583813777
+2026-01-29 23:49:45,431 - INFO - Запрос callback от user_id=6194184713
+2026-01-29 23:49:45,559 - INFO - Update id=986836427 is handled. Duration 125 ms by bot id=8583813777
+2026-01-29 23:49:48,806 - INFO - Запрос message от user_id=6194184713
+2026-01-29 23:49:48,806 - INFO - Получено изображение от user_id=6194184713
+2026-01-29 23:50:17,353 - INFO - Update id=986836428 is handled. Duration 28547 ms by bot id=8583813777
+2026-01-30 00:17:26,668 - INFO - MaximusBot started
+2026-01-30 00:17:26,669 - INFO - Start polling
+2026-01-30 00:17:26,784 - INFO - Run polling for bot @Maximusbyrd_bot id=8583813777 - 'MaximusBot'
+2026-01-30 00:17:35,832 - INFO - Запрос message от user_id=6194184713
+2026-01-30 00:17:36,036 - INFO - Update id=986836429 is handled. Duration 202 ms by bot id=8583813777
+2026-01-30 00:17:37,364 - INFO - Запрос callback от user_id=6194184713
+2026-01-30 00:17:37,475 - INFO - Update id=986836430 is handled. Duration 110 ms by bot id=8583813777
+2026-01-30 00:17:39,592 - INFO - Запрос callback от user_id=6194184713
+2026-01-30 00:17:39,790 - INFO - Update id=986836431 is handled. Duration 186 ms by bot id=8583813777
+2026-01-30 00:18:02,569 - INFO - Запрос message от user_id=6194184713
+2026-01-30 00:18:04,294 - INFO - Update id=986836432 is handled. Duration 1735 ms by bot id=8583813777
+2026-01-30 00:22:33,996 - INFO - Update id=986836433 is not handled. Duration 0 ms by bot id=8583813777
+2026-01-30 00:23:31,104 - INFO - MaximusBot started
+2026-01-30 00:23:31,104 - INFO - Start polling
+2026-01-30 00:23:31,226 - INFO - Run polling for bot @Maximusbyrd_bot id=8583813777 - 'MaximusBot'
+2026-01-30 00:23:31,265 - INFO - Запрос callback от user_id=6194184713
+2026-01-30 00:23:31,410 - ERROR - Глобальная ошибка: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+2026-01-30 00:23:31,498 - INFO - Update id=986836434 is handled. Duration 234 ms by bot id=8583813777
+2026-01-30 00:29:47,906 - INFO - MaximusBot started
+2026-01-30 00:29:47,906 - INFO - Start polling
+2026-01-30 00:29:48,021 - INFO - Run polling for bot @Maximusbyrd_bot id=8583813777 - 'MaximusBot'
+2026-01-30 00:31:49,072 - INFO - MaximusBot started
+2026-01-30 00:31:49,072 - INFO - Start polling
+2026-01-30 00:31:49,181 - INFO - Run polling for bot @Maximusbyrd_bot id=8583813777 - 'MaximusBot'
+2026-01-30 00:32:02,088 - INFO - Запрос message от user_id=6194184713
+2026-01-30 00:32:02,336 - INFO - Update id=986836435 is handled. Duration 250 ms by bot id=8583813777
+2026-01-30 00:32:03,416 - INFO - Запрос callback от user_id=6194184713
+2026-01-30 00:32:03,601 - INFO - Update id=986836436 is handled. Duration 188 ms by bot id=8583813777
+2026-01-30 00:32:04,796 - INFO - Запрос callback от user_id=6194184713
+2026-01-30 00:32:04,910 - INFO - Update id=986836437 is handled. Duration 109 ms by bot id=8583813777
+2026-01-30 00:32:13,437 - INFO - Запрос message от user_id=6194184713
+2026-01-30 00:32:14,428 - INFO - Update id=986836438 is handled. Duration 985 ms by bot id=8583813777
+2026-01-30 00:33:48,544 - INFO - Update id=986836439 is not handled. Duration 15 ms by bot id=8583813777
+2026-01-30 00:33:51,056 - INFO - Запрос callback от user_id=6194184713
+2026-01-30 00:33:51,192 - INFO - Update id=986836440 is handled. Duration 139 ms by bot id=8583813777
+2026-01-30 00:33:52,176 - INFO - Запрос callback от user_id=6194184713
+2026-01-30 00:33:52,276 - INFO - Update id=986836441 is handled. Duration 94 ms by bot id=8583813777
+2026-01-30 00:33:53,739 - INFO - Запрос callback от user_id=6194184713
+2026-01-30 00:33:53,830 - INFO - Update id=986836442 is handled. Duration 94 ms by bot id=8583813777
+2026-01-30 00:33:59,138 - INFO - Запрос message от user_id=6194184713
+2026-01-30 00:34:01,102 - INFO - Update id=986836443 is handled. Duration 1969 ms by bot id=8583813777
+2026-02-04 18:57:45,150 - INFO - MaximusBot started
+2026-02-04 18:57:45,150 - INFO - Start polling
+2026-02-04 18:57:45,317 - INFO - Run polling for bot @Maximusbyrd_bot id=8583813777 - 'MaximusBot'
+2026-02-04 18:58:26,352 - INFO - Incoming message from user=6194184713
+2026-02-04 18:58:26,603 - INFO - Update id=986836444 is handled. Duration 250 ms by bot id=8583813777
+2026-02-04 18:58:29,502 - INFO - Incoming callback from user=6194184713
+2026-02-04 18:58:29,607 - INFO - Update id=986836445 is handled. Duration 109 ms by bot id=8583813777
+2026-02-04 18:58:31,789 - INFO - Incoming callback from user=6194184713
+2026-02-04 18:58:31,905 - INFO - Update id=986836446 is handled. Duration 125 ms by bot id=8583813777
+2026-02-04 18:58:52,843 - INFO - Incoming message from user=6194184713
+2026-02-04 18:58:54,883 - ERROR - Unhandled exception
+Traceback (most recent call last):
+  File "C:\python\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "C:\python\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\python\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\python\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Projects\MaximusBot\bot\handlers.py", line 73, in logging_middleware
+    return await handler(event, data)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Projects\MaximusBot\bot\handlers.py", line 273, in process_image
+    subprocess.run(
+  File "C:\python\lib\subprocess.py", line 503, in run
+    with Popen(*popenargs, **kwargs) as process:
+  File "C:\python\lib\subprocess.py", line 971, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\python\lib\subprocess.py", line 1440, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+FileNotFoundError: [WinError 2] Не удается найти указанный файл
+2026-02-04 18:58:54,974 - INFO - Update id=986836447 is handled. Duration 2125 ms by bot id=8583813777
+2026-02-04 18:59:12,103 - INFO - Update id=986836448 is not handled. Duration 0 ms by bot id=8583813777
+2026-02-04 18:59:14,957 - INFO - Incoming callback from user=6194184713
+2026-02-04 18:59:15,086 - INFO - Update id=986836449 is handled. Duration 125 ms by bot id=8583813777
+2026-02-04 18:59:16,128 - INFO - Incoming callback from user=6194184713
+2026-02-04 18:59:16,251 - INFO - Update id=986836450 is handled. Duration 125 ms by bot id=8583813777
+2026-02-04 18:59:17,362 - INFO - Incoming callback from user=6194184713
+2026-02-04 18:59:17,479 - INFO - Update id=986836451 is handled. Duration 110 ms by bot id=8583813777
+2026-02-04 18:59:19,075 - INFO - Incoming callback from user=6194184713
+2026-02-04 18:59:19,330 - INFO - Update id=986836452 is handled. Duration 250 ms by bot id=8583813777
+2026-02-04 18:59:20,274 - INFO - Incoming callback from user=6194184713
+2026-02-04 18:59:20,479 - INFO - Update id=986836453 is handled. Duration 203 ms by bot id=8583813777
+2026-02-04 18:59:21,245 - INFO - Incoming callback from user=6194184713
+2026-02-04 18:59:21,440 - INFO - Update id=986836454 is handled. Duration 203 ms by bot id=8583813777
+2026-02-04 18:59:32,413 - INFO - Incoming message from user=6194184713
+2026-02-04 18:59:35,537 - ERROR - Unhandled exception
+Traceback (most recent call last):
+  File "C:\python\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "C:\python\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\python\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\python\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Projects\MaximusBot\bot\handlers.py", line 73, in logging_middleware
+    return await handler(event, data)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Projects\MaximusBot\bot\handlers.py", line 273, in process_image
+    subprocess.run(
+  File "C:\python\lib\subprocess.py", line 503, in run
+    with Popen(*popenargs, **kwargs) as process:
+  File "C:\python\lib\subprocess.py", line 971, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\python\lib\subprocess.py", line 1440, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+FileNotFoundError: [WinError 2] Не удается найти указанный файл
+2026-02-04 18:59:35,611 - INFO - Update id=986836455 is handled. Duration 3203 ms by bot id=8583813777
+2026-02-04 19:58:53,684 - INFO - MaximusBot started
+2026-02-04 19:58:53,685 - INFO - Start polling
+2026-02-04 19:58:53,864 - INFO - Run polling for bot @Maximusbyrd_bot id=8583813777 - 'MaximusBot'
+2026-02-04 19:59:10,018 - INFO - Incoming message from user=6194184713
+2026-02-04 19:59:10,294 - INFO - Update id=986836456 is handled. Duration 281 ms by bot id=8583813777
+2026-02-04 19:59:11,749 - INFO - Incoming callback from user=6194184713
+2026-02-04 19:59:11,932 - INFO - Update id=986836457 is handled. Duration 172 ms by bot id=8583813777
+2026-02-04 19:59:12,645 - INFO - Incoming callback from user=6194184713
+2026-02-04 19:59:12,772 - INFO - Update id=986836458 is handled. Duration 125 ms by bot id=8583813777
+2026-02-04 19:59:22,782 - INFO - Incoming message from user=6194184713
+2026-02-04 19:59:29,269 - ERROR - AI upscale error
+Traceback (most recent call last):
+  File "C:\Projects\MaximusBot\bot\handlers.py", line 295, in process_image
+    UPSCALE_SERVICE.upscale(input_path, output_path)
+AttributeError: 'UpscaleService' object has no attribute 'upscale'
+2026-02-04 19:59:29,445 - INFO - Update id=986836459 is handled. Duration 6656 ms by bot id=8583813777
+2026-02-04 20:01:38,133 - INFO - MaximusBot started
+2026-02-04 20:01:38,134 - INFO - Start polling
+2026-02-04 20:01:38,236 - INFO - Run polling for bot @Maximusbyrd_bot id=8583813777 - 'MaximusBot'
+2026-02-04 20:01:43,771 - INFO - Incoming message from user=6194184713
+2026-02-04 20:01:44,004 - INFO - Update id=986836460 is handled. Duration 233 ms by bot id=8583813777
+2026-02-04 20:01:44,834 - INFO - Incoming callback from user=6194184713
+2026-02-04 20:01:44,981 - INFO - Update id=986836461 is handled. Duration 156 ms by bot id=8583813777
+2026-02-04 20:01:45,618 - INFO - Incoming callback from user=6194184713
+2026-02-04 20:01:45,743 - INFO - Update id=986836462 is handled. Duration 125 ms by bot id=8583813777
+2026-02-04 20:01:54,534 - INFO - Incoming message from user=6194184713
+2026-02-04 20:01:58,865 - ERROR - AI upscale error
+Traceback (most recent call last):
+  File "C:\Projects\MaximusBot\bot\handlers.py", line 295, in process_image
+    UPSCALE_SERVICE.upscale(input_path, output_path)
+AttributeError: 'UpscaleService' object has no attribute 'upscale'
+2026-02-04 20:01:59,118 - INFO - Update id=986836463 is handled. Duration 4578 ms by bot id=8583813777
+2026-02-04 20:04:03,830 - INFO - MaximusBot started
+2026-02-04 20:04:03,830 - INFO - Start polling
+2026-02-04 20:04:03,957 - INFO - Run polling for bot @Maximusbyrd_bot id=8583813777 - 'MaximusBot'
+2026-02-04 20:04:09,317 - INFO - Incoming message from user=6194184713
+2026-02-04 20:04:09,619 - INFO - Update id=986836464 is handled. Duration 296 ms by bot id=8583813777
+2026-02-04 20:04:10,477 - INFO - Incoming callback from user=6194184713
+2026-02-04 20:04:10,674 - INFO - Update id=986836465 is handled. Duration 203 ms by bot id=8583813777
+2026-02-04 20:04:11,330 - INFO - Incoming callback from user=6194184713
+2026-02-04 20:04:11,642 - INFO - Update id=986836466 is handled. Duration 313 ms by bot id=8583813777
+2026-02-04 20:04:19,613 - INFO - Incoming message from user=6194184713
+2026-02-04 20:04:20,159 - ERROR - AI upscale error
+Traceback (most recent call last):
+  File "C:\Projects\MaximusBot\bot\handlers.py", line 295, in process_image
+    UPSCALE_SERVICE.upscale(input_path, output_path)
+AttributeError: 'UpscaleService' object has no attribute 'upscale'
+2026-02-04 20:04:20,346 - INFO - Update id=986836467 is handled. Duration 735 ms by bot id=8583813777
+2026-02-04 20:05:20,961 - INFO - MaximusBot started
+2026-02-04 20:05:20,962 - INFO - Start polling
+2026-02-04 20:05:21,098 - INFO - Run polling for bot @Maximusbyrd_bot id=8583813777 - 'MaximusBot'
+2026-02-04 20:05:26,362 - INFO - Incoming message from user=6194184713
+2026-02-04 20:05:26,633 - INFO - Update id=986836468 is handled. Duration 265 ms by bot id=8583813777
+2026-02-04 20:05:27,751 - INFO - Incoming callback from user=6194184713
+2026-02-04 20:05:27,931 - INFO - Update id=986836469 is handled. Duration 172 ms by bot id=8583813777
+2026-02-04 20:05:28,790 - INFO - Incoming callback from user=6194184713
+2026-02-04 20:05:28,918 - INFO - Update id=986836470 is handled. Duration 141 ms by bot id=8583813777
+2026-02-04 20:05:37,208 - INFO - Incoming message from user=6194184713
+2026-02-04 20:05:39,930 - ERROR - AI upscale error
+Traceback (most recent call last):
+  File "C:\Projects\MaximusBot\bot\handlers.py", line 295, in process_image
+    UPSCALE_SERVICE.upscale(input_path, output_path)
+AttributeError: 'UpscaleService' object has no attribute 'upscale'
+2026-02-04 20:05:40,291 - INFO - Update id=986836471 is handled. Duration 3078 ms by bot id=8583813777
+2026-02-04 20:15:11,438 - INFO - MaximusBot started
+2026-02-04 20:15:11,439 - INFO - Start polling
+2026-02-04 20:15:11,558 - INFO - Run polling for bot @Maximusbyrd_bot id=8583813777 - 'MaximusBot'
+2026-02-04 20:15:19,301 - INFO - Incoming message from user=6194184713
+2026-02-04 20:15:19,619 - INFO - Update id=986836472 is handled. Duration 311 ms by bot id=8583813777
+2026-02-04 20:15:20,488 - INFO - Incoming callback from user=6194184713
+2026-02-04 20:15:20,610 - INFO - Update id=986836473 is handled. Duration 125 ms by bot id=8583813777
+2026-02-04 20:15:21,459 - INFO - Incoming callback from user=6194184713
+2026-02-04 20:15:21,563 - INFO - Update id=986836474 is handled. Duration 109 ms by bot id=8583813777
+2026-02-04 20:15:32,358 - INFO - Incoming message from user=6194184713
+2026-02-04 20:15:34,301 - ERROR - AI upscale error
+Traceback (most recent call last):
+  File "C:\Projects\MaximusBot\bot\handlers.py", line 295, in process_image
+    UPSCALE_SERVICE.upscale(input_path, output_path)
+  File "C:\Projects\MaximusBot\bot\ai\upscale.py", line 66, in upscale
+    img = cv2.imread(input_path, cv2.IMREAD_COLOR)
+TypeError: Can't convert object to 'str' for 'filename'
+2026-02-04 20:15:34,570 - INFO - Update id=986836475 is handled. Duration 2203 ms by bot id=8583813777
+2026-02-04 20:20:36,912 - INFO - MaximusBot started
+2026-02-04 20:20:36,912 - INFO - Start polling
+2026-02-04 20:20:37,056 - INFO - Run polling for bot @Maximusbyrd_bot id=8583813777 - 'MaximusBot'
+2026-02-04 20:20:52,012 - INFO - Incoming message from user=6194184713
+2026-02-04 20:20:52,289 - INFO - Update id=986836476 is handled. Duration 264 ms by bot id=8583813777
+2026-02-04 20:20:53,074 - INFO - Incoming callback from user=6194184713
+2026-02-04 20:20:53,179 - INFO - Update id=986836477 is handled. Duration 94 ms by bot id=8583813777
+2026-02-04 20:20:54,139 - INFO - Incoming callback from user=6194184713
+2026-02-04 20:20:54,246 - INFO - Update id=986836478 is handled. Duration 108 ms by bot id=8583813777
+2026-02-04 20:21:01,783 - INFO - Incoming message from user=6194184713
+2026-02-04 20:21:02,237 - ERROR - AI upscale error
+Traceback (most recent call last):
+  File "C:\Projects\MaximusBot\bot\handlers.py", line 295, in process_image
+    UPSCALE_SERVICE.upscale(input_path, output_path)
+AttributeError: 'UpscaleService' object has no attribute 'upscale'
+2026-02-04 20:21:02,380 - INFO - Update id=986836479 is handled. Duration 593 ms by bot id=8583813777
+2026-02-04 20:24:06,742 - INFO - MaximusBot started
+2026-02-04 20:24:06,743 - INFO - Start polling
+2026-02-04 20:24:06,882 - INFO - Run polling for bot @Maximusbyrd_bot id=8583813777 - 'MaximusBot'
+2026-02-04 20:24:06,919 - INFO - Incoming message from user=6194184713
+2026-02-04 20:24:07,190 - INFO - Update id=986836480 is handled. Duration 264 ms by bot id=8583813777
+2026-02-04 20:24:13,170 - INFO - Incoming callback from user=6194184713
+2026-02-04 20:24:13,336 - INFO - Update id=986836481 is handled. Duration 155 ms by bot id=8583813777
+2026-02-04 20:24:13,909 - INFO - Incoming callback from user=6194184713
+2026-02-04 20:24:14,102 - INFO - Update id=986836482 is handled. Duration 188 ms by bot id=8583813777
+2026-02-04 20:24:22,112 - INFO - Incoming message from user=6194184713
+2026-02-04 20:24:25,285 - INFO - Update id=986836483 is handled. Duration 3171 ms by bot id=8583813777
