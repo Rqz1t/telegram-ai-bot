@@ -56,4 +56,4 @@
     ```
 
 ## 👤 Автор
-[Ваше Имя/Ник](https://github.com/rqz1t)
+(https://github.com/rqz1t)
