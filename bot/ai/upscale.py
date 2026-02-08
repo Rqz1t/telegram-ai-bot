@@ -1,11 +1,11 @@
 from pathlib import Path
-
 import cv2
 import torch
-
 from realesrgan import RealESRGANer
 from realesrgan.archs.srvgg_arch import SRVGGNetCompact
 
+# Импортируем правильный путь из конфига
+from bot.config import BASE_DIR
 
 class UpscaleService:
     MODEL_NAME = "realesr-general-x4v3.pth"
@@ -14,14 +14,14 @@ class UpscaleService:
     def __init__(self):
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
 
-        self.model_path = (
-            Path(__file__).resolve().parent.parent / "models" / self.MODEL_NAME
-        )
+        # Ищем модель в папке models РЯДОМ с ботом
+        self.model_path = BASE_DIR / "models" / self.MODEL_NAME
 
         if not self.model_path.exists():
-            raise FileNotFoundError(f"❌ Модель не найдена: {self.model_path}")
+            # Если не нашли, выводим четкую ошибку в лог
+            print(f"❌ ОШИБКА: Файл модели не найден здесь: {self.model_path}")
+            raise FileNotFoundError(f"Put the file '{self.MODEL_NAME}' in the 'models' folder next to exe!")
 
-        # ✅ ПРАВИЛЬНАЯ архитектура под realesr-general-x4v3
         model = SRVGGNetCompact(
             num_in_ch=3,
             num_out_ch=3,
@@ -42,20 +42,14 @@ class UpscaleService:
             device=self.device,
         )
 
-        print(f"✅ UpscaleService загружен ({self.device})")
+        print(f"✅ AI Model loaded from: {self.model_path}")
 
     def upscale(self, input_path: str | Path, output_path: str | Path) -> Path:
         input_path = str(input_path)
         output_path = str(output_path)
 
-        img = cv2.imread(input_path, cv2.IMREAD_COLOR)
-        if img is None:
-            raise ValueError("❌ Не удалось прочитать изображение")
-
-        try:
-            output, _ = self.upsampler.enhance(img, outscale=self.SCALE)
-        except Exception as e:
-            raise RuntimeError(f"❌ Ошибка апскейла: {e}")
-
+        img = cv2.imread(input_path, cv2.IMREAD_UNCHANGED)
+        output, _ = self.upsampler.enhance(img, outscale=self.SCALE)
         cv2.imwrite(output_path, output)
+
         return Path(output_path)
